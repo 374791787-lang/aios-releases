@@ -1,7 +1,7 @@
 {
   "app": "AIOS",
-  "version": "1.4.0",
-  "notes": "AIOS v1.4.0 - Windows installer available via GitHub Releases.",
-  "download_url": "https://github.com/374791787-lang/aios-releases/releases/download/v1.4.0/AIOS-Setup-1.4.0.exe",
-  "build_time": "2026-11-26T10:44:32"
+  "version": "1.4.1",
+  "notes": "v1.4.1: 公网更新清单加主备容灾(Pages主 + trae备); 修复 release 能力缺失人话短语; 安装包不再随附空 llm_config.json(避免密钥泄露风险, 用户配置走可写数据根)。",
+  "download_url": "https://github.com/374791787-lang/aios-releases/releases/download/v1.4.1/AIOS-Setup-1.4.1.exe",
+  "build_time": "2026-11-26T15:46:15"
 }
